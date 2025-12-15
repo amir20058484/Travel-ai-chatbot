@@ -169,5 +169,4 @@ This project is provided for educational purposes as part of a Prompt Engineerin
 
 ```
 
-هم برات آماده می‌کنم. بگو کاکو 🌸
-```
+
